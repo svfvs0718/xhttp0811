@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/svfvs0718/xhttp08:latest
+          tags: ghcr.io/svfvs0718/xhttp0811:latest
